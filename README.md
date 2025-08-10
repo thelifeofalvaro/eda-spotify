@@ -53,6 +53,17 @@ Acousticness correlaciona negativamente con energy (-0.65) y danceability (-0.52
 
 Valence y danceability: correlación positiva moderada (~0.48).
 
+Top 3 relaciones positivas:
+- Loudness – Energy  
+- Valence – Danceability  
+- Valence – Energy
+
+Top 3 relaciones negativas:  
+- Acousticness – Energy  
+- Acousticness – Loudness  
+- Acousticness – Danceability
+
+
 ## 5. Visualizaciones Destacadas (Dashboard)
 
 Canciones, albumes y artistas unicos (permitiendo filtar a nivel global, por continente y pais)
