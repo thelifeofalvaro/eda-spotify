@@ -35,12 +35,14 @@ Escala menor más frecuente en África (58%) y América (55%).
 Europa con un reparto equilibrado (mayor 51%, menor 49%).
 
 📌 Características musicales por continente:
-Continente	Danceability	Energy	Speechiness	Acousticness	Instrumentalness	Liveness	Valence
-África	0.73	0.68	0.14	0.26	0.02	0.29	0.54
-América	0.71	0.70	0.15	0.21	0.03	0.27	0.57
-Asia	0.68	0.66	0.11	0.31	0.01	0.23	0.61
-Europa	0.70	0.69	0.13	0.28	0.02	0.25	0.59
-Oceanía	0.75	0.72	0.13	0.19	0.03	0.24	0.60
+| Continente | Danceability |   Energy | Speechiness | Acousticness | Instrumentalness | Liveness |  Valence |
+| ---------- | -----------: | -------: | ----------: | -----------: | ---------------: | -------: | -------: |
+| África     |     **0.73** |     0.68 |        0.14 |         0.26 |             0.02 | **0.29** |     0.54 |
+| América    |         0.71 |     0.70 |        0.15 |         0.21 |             0.03 |     0.27 |     0.57 |
+| Asia       |         0.68 |     0.66 |    **0.11** |         0.31 |             0.01 |     0.23 | **0.61** |
+| Europa     |         0.70 |     0.69 |        0.13 |         0.28 |             0.02 |     0.25 |     0.59 |
+| Oceanía    |     **0.75** | **0.72** |        0.13 |     **0.19** |             0.03 |     0.24 |     0.60 |
+
 
 ## 4. Análisis Relacional
 El análisis de correlación en Python reveló:
