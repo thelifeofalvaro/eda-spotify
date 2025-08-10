@@ -83,13 +83,12 @@ Estudios culturales: relación entre música y contexto sociocultural.
 
 ## 8. Vista previa del Dashboard
 
-[CAPTURAS DEL DASHBOARD]
+![Captura Dashboard](https://github.com/thelifeofalvaro/eda-spotify/blob/main/imagenes/Dashboard_general.png "Pestaña General")
+![Captura Dashboard 2](https://github.com/thelifeofalvaro/eda-spotify/blob/main/imagenes/Dashboard_porcancion.png "Pestaña Por Canción")
 
-
-
-## 9. Requisitos técnicos
+## 9. 💻 Requisitos técnicos
 Python 3.x
-
+Visual Studio Code
 Power BI Desktop
 
 Librerías: pandas, numpy, matplotlib, seaborn
