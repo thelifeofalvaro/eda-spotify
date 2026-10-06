@@ -145,7 +145,7 @@ eda-spotify/
 
 # 11. Datos
 Los datasets utilizados en el proyecto se encuentran alojados
-externamente debido a su tamaño. Los enlaces de acceso están disponibles [aquí](Data/enlace_datos.md)
+externamente debido a su tamaño. Los enlaces de acceso están disponibles [aquí](data/enlace_datos.md)
 
 ## 🎓 Contexto
 
